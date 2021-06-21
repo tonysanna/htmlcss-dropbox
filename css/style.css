@@ -216,3 +216,106 @@ body{
 .check .fas {
     color: rgb(75, 122, 255);
 }
+
+.end-table {
+    margin-top: 3%;
+    width: 96.8%;
+    border: 1px solid rgba(0, 0, 0, 0.37);
+    height: 250px;
+}
+
+.end-table-margin {
+    margin-left: 3.3%;
+}
+
+.end-table-title {
+    text-align: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.37);
+    height: 20%;
+    line-height: 45px;
+}
+
+.enterprise #bottone {
+    float: right;
+    margin-right: 2%;
+}
+
+.enterprise {
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
+.enterprise p {
+    margin-top: 2%;
+}
+
+.enter-end {
+    width: 60%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.end-table .fas {
+    font-size: 20px;
+    padding: 0;
+}
+
+.trova {
+    width: 90.8%;
+    height: 500px;
+    margin-top: 10%;
+}
+
+.partner {
+    width: 100%;
+    margin: 0 0 ;
+}
+
+.partner img {
+    width: 55%;
+
+}
+
+.part-contr {
+    float: right;
+    width: 40%;
+}
+
+.part-contr h2 {
+    margin-bottom: 10%;
+}
+
+#bottone-white {
+    display: inline-block;
+    background-color: rgb(248, 248, 248);
+    color: rgb(0, 0, 0);
+    padding: 5px 20px;
+    text-decoration: none;
+    border: 1px solid black;
+    margin-top: 10%;
+}
+
+
+.more-opt {
+    width: 100%;
+    height: 500px;
+    margin-top: 8%;    
+}
+
+.more-opt h2 {
+    font-size: 30px;
+}
+
+.opt {
+    display:inline-block; 
+    width: 25%;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+.opt img {
+    width: 100%;
+}
+
+.opt h3 {
+    margin-bottom: 8%;
+}
