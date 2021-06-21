@@ -7,8 +7,8 @@ body{
     font-family: 'Open Sans', sans-serif;;
 }
 
-.contenitor {
-    width: 100%;
+.contenitore {
+    width: 90%;
     height: 80px;
     line-height: 40px;
     margin: 0 auto;
@@ -61,6 +61,7 @@ body{
 
 .contenitor-2 {
     width: 100%;
+    
 }
 
 .blue {
@@ -75,13 +76,15 @@ body{
     padding-top: 5%;
 }
 
+
 .info {
     float: left;
     width: 25%;
-    padding-top: 5%;
+    padding-top: 6%;
     margin-left: 14%;
     font-size: 22px;
 }
+
 
 .inizio {
     margin-top: 10%;
@@ -99,10 +102,72 @@ body{
 }
 
 #jumbo img {
-    width: 50%;
+    max-width: 50%;
     float: right;
-    bottom: -4%;
-    padding-top: 5%;
+    position: relative;
+    bottom: -60px;
+    padding-top: 3%;
     margin-right: 7%;
 }
 
+.contenitore-plan {
+    width: 60%;
+    margin: 0 auto;
+    height: 380vh;
+}
+
+#titolo-plan {
+    margin-top: 15%;
+    text-align: left;
+    font-size: 35px;
+}
+
+#fat-botton {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: 5px solid rgb(65, 77, 240);
+    border-radius: 20px;
+    vertical-align: middle;
+}
+.spa {
+    padding-right: 2%;
+}
+.fat {
+    margin: 2% 0;
+}
+
+.colonna {
+    display: inline-block;
+    width: 30%;
+    height: 899px;
+    border: 1px solid rgba(0, 0, 0, 0.36);
+}
+
+.testa {
+    border-bottom:1px solid rgba(0, 0, 0, 0.36);
+    text-align: center;
+    padding: 2% 0;
+}
+
+.colonna .fas {
+    font-size: 20px;
+    padding: 0;
+}
+
+.margin {
+    height: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.margin #bottone1 {
+    display: inline-block;
+    margin-top: 10%;
+    padding: 5px 30px;
+    text-align: center;
+}
+
+.margin p {
+    margin: 5% 0;
+}
