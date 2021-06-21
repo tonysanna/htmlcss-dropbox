@@ -171,3 +171,48 @@ body{
 .margin p {
     margin: 5% 0;
 }
+
+#profe {
+    margin-bottom: 20%;
+}
+
+#profe h3 {
+    font-size: 30px;
+}
+
+.mese {
+    color: grey;
+}
+
+.stic {
+    margin-top: 5%;
+}
+
+.acquista-ora {
+    margin-top: 5%;
+}
+
+.acquista-ora * {
+    display: inline-block;
+}
+
+#border {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.36);
+    padding-bottom: 10%;
+}
+
+#tx-blue {
+    color: blue;
+}
+
+.punti {
+    margin-top: 15%;
+}
+
+.check {
+    margin-top: 5%;
+}
+
+.check .fas {
+    color: rgb(75, 122, 255);
+}
